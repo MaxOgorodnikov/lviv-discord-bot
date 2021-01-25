@@ -1,0 +1,31 @@
+{
+  "name": "lviv-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Lviv server",
+  "main": "index.js",
+  "scripts": {
+    "local": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxOgorodnikov/lviv-discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "lviv"
+  ],
+  "author": "Max Ogorodnikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxOgorodnikov/lviv-discord-bot/issues"
+  },
+  "homepage": "https://github.com/MaxOgorodnikov/lviv-discord-bot#readme",
+  "devDependencies": {
+    "eslint": "^7.18.0"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
